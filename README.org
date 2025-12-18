@@ -2,9 +2,9 @@
 
 Simple OaUTH 1.0 library for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/south.git   |
-| commit  | 99d0476  |
-| systems | south |
-|---------+-------------------------------------------|
+|---------+----------------------------------------------|
+| source  | git:https://codeberg.org/Shinmera/south.git |
+| commit  | a78b62b                                      |
+| systems | south                                        |
+|---------+----------------------------------------------|
 
